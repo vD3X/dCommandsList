@@ -1,0 +1,9 @@
+{
+  "Settings": {
+    "DisplayMode": "both",
+    "Help_Commands": "pomoc, help, komendy, commands",
+    "Menu_Title": "[ ★ CS-Zjarani | Pomoc ★ ]",
+    "Menu_Title_Color": "#29cc94",
+    "Menu_Close_After_Select": true
+  }
+}

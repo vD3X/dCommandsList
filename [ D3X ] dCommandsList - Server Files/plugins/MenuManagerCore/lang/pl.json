@@ -1,0 +1,11 @@
+{
+	"menumanager.footer": "W - góra S - dół E - wybierz R - wyjdź",
+	"menumanager.select_type":"Wybierz menu",
+	"menumanager.console":"Konsola",
+	"menumanager.chat":"Chat menu",
+	"menumanager.center":"Hud (Standard)",
+	"menumanager.control":"Hud (WASD)",
+	"menumanager.selected_type":"Wybrany typ menu:",
+	"menumanager.back":"Wróć",
+	"menumanager.empty":"Nic do wyświetlenia"
+}
